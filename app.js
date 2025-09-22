@@ -1,3 +1,4 @@
+// Variables
 var a=67;
 var a=90;
 let b=68;
